@@ -1,2 +1,1 @@
-# mmall
-一个简单的电商平台
+mmall_learning
